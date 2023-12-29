@@ -1,0 +1,15 @@
+func sum(v1, v2){
+	store res = v1 + v2;
+	return res;
+}
+
+store a = 12;
+store b = 13 - 3;
+store c = 14.4;
+store d = "andrea dacco";
+store e = "123.2";
+store c = dtin("input value");
+print(sum(a,b));
+store arr = [1,2,[3.1,3.2],4];
+
+ENDFILE
